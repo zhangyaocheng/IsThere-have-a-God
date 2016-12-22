@@ -3,7 +3,6 @@ digraph mytest{
 
 	fontname = "FangSong";
 	label = "学校职务层级管理";
-	fontcolor = "red"
 
 	node [shape = box, fontname = "FangSong",style = filled,fillcolor = "green",fontcolor = "black"];
 	edge [fontname = "FangSong",fontcolor = "blue"];
